@@ -1,0 +1,8 @@
+{
+    "clientID": "544535358275-hht2cv8trs62cu6l3mn0rjdj8hpo2id9.apps.googleusercontent.com",
+    "clientSecret": "Rx5s3i9OKsNqToSClpprgWLB",
+    "redirectUri": "http://localhost/houseboat-booking/vendor/yiioverflow/php-google-contacts-v3-api-admin/redirect-handler.php",
+    "developerKey": "",
+    "refreshToken": "1/vhXPzXVHOIzKecBnhzGGnx5tL9sAqRBYKKdjO_w02os",
+    "gdata-version": "3.0"
+}
