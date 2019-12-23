@@ -85,6 +85,11 @@ abstract class ContactFactory
 
         $response = $val->getResponseBody();
 
+	if($response == 'Contact not found.')
+        {
+            return null;
+        }
+
         $xmlContact = simplexml_load_string($response);
         $xmlContact->registerXPathNamespace('gd', 'http://schemas.google.com/g/2005');
 
